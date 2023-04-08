@@ -4,6 +4,10 @@ This is Shubhanshu Tomar...
 
 I currently working on systems architecture and networking...
 
+[![tomshoo's GitHub | Stats](https://stats.quine.sh/tomshoo/github?theme=dark)](https://quine.sh)
+[![tomshoo's GitHub | Languages Over Time](https://stats.quine.sh/tomshoo/languages-over-time?theme=dark)](https://quine.sh)
+[![tomshoo's GitHub | Languages Over Time](https://stats.quine.sh/tomshoo/languages-over-time?theme=dark)](https://quine.sh)
+
 <!--
 **tomshoo/tomshoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
