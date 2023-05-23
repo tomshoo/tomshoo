@@ -17,7 +17,6 @@ without creativity and imagination are we even human?
 
 ## Gihub Streak
 
-<!-- <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=tomshoo&show_icons=true&theme=algolia&border=true"></img> -->
 ![Github streak](https://github-readme-streak-stats.herokuapp.com/?user=tomshoo&show_icons=true&theme=algolia&border=true)
 
 ## My Profile
@@ -26,6 +25,10 @@ without creativity and imagination are we even human?
 |:-:|:-:|:-:|
 |Github over time|Languages|Topics|
 
-<img height="210em"  src="https://github-readme-stats-eight-theta.vercel.app/api?username=tomshoo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" /><img height="210em"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tomshoo&layout=compact&langs_count=8&theme=algolia"/>
+<!-- <img height="210em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tomshoo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" /> -->
+<!-- <img height="210em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tomshoo&layout=compact&langs_count=8&theme=algolia"/> -->
+
+![Github statistics](https://github-readme-stats-eight-theta.vercel.app/api?username=tomshoo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
+![My programming languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tomshoo&layout=compact&langs_count=8&theme=algolia)
 
 ![Github Stats](https://visitcount.itsvg.in/api?id=tomshoo&icon=0&color=0)
