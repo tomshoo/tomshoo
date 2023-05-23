@@ -30,16 +30,15 @@ without creativity and imagination are we even human?
             <img height="225em" src="https://stats.quine.sh/tomshoo/languages-over-time?theme=dark" />
         </td>
         <td>
-<!--
-<img height="225em" src="https://stats.quine.sh/tomshoo/topics-over-time?theme=dark"/>
--->
-    ![quine stats](https://stats.quine.sh/tomshoo/topics-over-time?theme=dark =x225)
+            <img height="225em" src="https://stats.quine.sh/tomshoo/topics-over-time?theme=dark"/>
         </td>
     </tr>
 </table>
 
-<!-- <img height="210em"  src="https://github-readme-stats-eight-theta.vercel.app/api?username=tomshoo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" /><img height="210em"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tomshoo&layout=compact&langs_count=8&theme=algolia"/> -->
+|![quine stat 1](https://stats.quine.sh/tomshoo/github?theme=dark)|![quine stat 2](https://stats.quine.sh/tomshoo/languages-over-time?theme=dark)|![quine stat 3](https://stats.quine.sh/tomshoo/topics-over-time?theme=dark)|
+|:-:|:-:|:-:|
+|||
 
-![Some alt text](https://github-readme-stats-eight-theta.vercel.app/api?username=tomshoo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true =210)
+<img height="210em"  src="https://github-readme-stats-eight-theta.vercel.app/api?username=tomshoo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" /><img height="210em"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tomshoo&layout=compact&langs_count=8&theme=algolia"/>
 
 ![Github Stats](https://visitcount.itsvg.in/api?id=tomshoo&icon=0&color=0)
