@@ -21,23 +21,9 @@ without creativity and imagination are we even human?
 
 ## My Profile
 
-<table>
-    <tr>
-        <td>
-            <img height="225em" src="https://stats.quine.sh/tomshoo/github?theme=dark" />
-        </td>
-        <td>
-            <img height="225em" src="https://stats.quine.sh/tomshoo/languages-over-time?theme=dark" />
-        </td>
-        <td>
-            <img height="225em" src="https://stats.quine.sh/tomshoo/topics-over-time?theme=dark"/>
-        </td>
-    </tr>
-</table>
-
 |![quine stat 1](https://stats.quine.sh/tomshoo/github?theme=dark)|![quine stat 2](https://stats.quine.sh/tomshoo/languages-over-time?theme=dark)|![quine stat 3](https://stats.quine.sh/tomshoo/topics-over-time?theme=dark)|
 |:-:|:-:|:-:|
-|||
+|Github over time|Languages|Topics|
 
 <img height="210em"  src="https://github-readme-stats-eight-theta.vercel.app/api?username=tomshoo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" /><img height="210em"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tomshoo&layout=compact&langs_count=8&theme=algolia"/>
 
