@@ -21,12 +21,9 @@ without creativity and imagination are we even human?
 
 ## My Profile
 
-|![quine stat 1](https://stats.quine.sh/tomshoo/github?theme=dark)|![quine stat 2](https://stats.quine.sh/tomshoo/languages-over-time?theme=dark)|![quine stat 3](https://stats.quine.sh/tomshoo/topics-over-time?theme=dark)|
+|![gh over time](https://stats.quine.sh/tomshoo/github?theme=dark)|![languages](https://stats.quine.sh/tomshoo/languages-over-time?theme=dark)|![topics](https://stats.quine.sh/tomshoo/topics-over-time?theme=dark)|
 |:-:|:-:|:-:|
 |Github over time|Languages|Topics|
-
-<!-- <img height="210em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tomshoo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" /> -->
-<!-- <img height="210em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tomshoo&layout=compact&langs_count=8&theme=algolia"/> -->
 
 ![Github statistics](https://github-readme-stats-eight-theta.vercel.app/api?username=tomshoo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
 ![My programming languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tomshoo&layout=compact&langs_count=8&theme=algolia)
