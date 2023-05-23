@@ -17,7 +17,8 @@ without creativity and imagination are we even human?
 
 ## Gihub Streak
 
-<img height="200em"  src="https://github-readme-streak-stats.herokuapp.com/?user=tomshoo&show_icons=true&theme=algolia&border=true"></img>
+<!-- <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=tomshoo&show_icons=true&theme=algolia&border=true"></img> -->
+![Github streak](https://github-readme-streak-stats.herokuapp.com/?user=tomshoo&show_icons=true&theme=algolia&border=true)
 
 ## My Profile
 
