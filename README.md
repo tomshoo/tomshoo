@@ -40,6 +40,6 @@ without creativity and imagination are we even human?
 
 <!-- <img height="210em"  src="https://github-readme-stats-eight-theta.vercel.app/api?username=tomshoo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" /><img height="210em"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tomshoo&layout=compact&langs_count=8&theme=algolia"/> -->
 
-![Some alt text](<https://github-readme-stats-eight-theta.vercel.app/api?username=tomshoo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true> =210)
+![Some alt text](https://github-readme-stats-eight-theta.vercel.app/api?username=tomshoo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true =210)
 
 ![Github Stats](https://visitcount.itsvg.in/api?id=tomshoo&icon=0&color=0)
