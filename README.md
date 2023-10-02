@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-I am Shubhanshu Tomar, a pre-final year student at IKGPTU,
+I am Shubhanshu Tomar, a final year student at IKGPTU,
 Kapurthala, Pubjab, India.
 
 I like to work and tinker along with computers, to learn
